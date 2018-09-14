@@ -29,7 +29,7 @@ Uncomment and reset the service to continue.
 <br>
 Please don't forget to clear your browsers cache as well.
 <br>
-## Special thanks:
+### Special thanks
 <br>
 Turtlecoin
 <br>
