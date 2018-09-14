@@ -1,5 +1,5 @@
 # phfx-blockexplorer - Dark Matter Theme.
-###Block explorer
+### Block explorer
 
 To operate under your coin.
 Just change the connection information in config.js
