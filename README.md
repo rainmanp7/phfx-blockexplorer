@@ -1,4 +1,4 @@
-# phfx-blockexplorer
+# phfx-blockexplorer - Dark Matter Theme.
 ###Block explorer
 
 To operate under your coin.
@@ -18,10 +18,15 @@ Your coin value will need to be modified inside the webpage.
 It will be a total value times etc...
 To find your correct emissions rate ,this must be modified
 <br>
+Make sure you have curl installed on linux.
+Apache2 curl mod installed.
+<br>
 Curl will need to be enabled in php settings ini file.
+<br>
 Uncomment and reset the service to continue.
+<br>
 Please don't forget to clear your browsers cache as well.
-
+<br>
 Special thanks:
 Turtlecoin
 Karbo coin block explorer
