@@ -1,2 +1,0 @@
-# phfx-blockexplorer
-Block explorer
