@@ -15,7 +15,9 @@ Nginx straight out of the box.
 ### Note:
 <br>
 Your coin value will need to be modified inside the webpage.
-It will be a total value times etc...
+<br>
+It will be a total value times etc... *
+<br>
 To find your correct emissions rate ,this must be modified
 <br>
 Make sure you have curl installed on linux.
@@ -27,7 +29,10 @@ Uncomment and reset the service to continue.
 <br>
 Please don't forget to clear your browsers cache as well.
 <br>
-Special thanks:
+## Special thanks:
+<br>
 Turtlecoin
+<br>
 Karbo coin block explorer
+<br>
 Manatee coin
